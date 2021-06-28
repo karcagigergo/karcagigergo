@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Gergő Karcagi! I'm a Full-stack developer just graduated from one of the best international programming school: LeWagon, in batch #540. I learned HTML, CSS, Bootstrap, JavaScript ES6, SQL, git, GitHub, Figma, Trello, Heroku and Ruby on Rails there and now the sky is the limit.
+
 <!--
 **karcagigergo/karcagigergo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About 
+
+I consider myself as a global citizen but I was born and educated in Hungary. I lived and worked in London - UK, from where I traveled a lot around the globe. I guess London made me like to travel and discover new places, expanding my knowledge about the world. This mindset has taken me to Brasil where I currently live.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karcagigergo&layout=compact)
+
+### 📫 Contact
+
+<a href="mailto:karcagigergo@gmail.com">![karcagigergo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
