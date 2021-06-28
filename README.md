@@ -4,7 +4,7 @@ I'm Gergő! I'm a Full-stack developer just graduated from one of the best inter
 
 ### 🧪 Currently working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karcagigergo&theme=default_repocard&repo=idillchaos-portfolio)](https://github.com/karcagigergo/idillchaos-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karcagigergo&theme=outrun&repo=idillchaos-portfolio)](https://github.com/karcagigergo/idillchaos-portfolio)
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karcagigergo&repo=github-readme-stats)](https://github.com/karcagigergo/idillchaos-portfolio) -->
@@ -14,7 +14,7 @@ I'm Gergő! I'm a Full-stack developer just graduated from one of the best inter
 
 ### 👀 My stats:
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=karcagigergo&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=karcagigergo&theme=outrun&count_private=true&show_icons=true&hide=contribs)
 
 <!--
 **karcagigergo/karcagigergo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
