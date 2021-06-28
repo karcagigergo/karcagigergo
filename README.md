@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karcagigergo)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 I'm Gergő! I'm a Full-stack developer just graduated from one of the best international programming school: LeWagon, in batch #540. I learned HTML, CSS, Bootstrap, JavaScript ES6, SQL, git, GitHub, Figma, Trello, Heroku and Ruby on Rails there and now the sky is the limit.
