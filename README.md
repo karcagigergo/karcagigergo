@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 I consider myself as a global citizen but I was born and educated in Hungary. I lived and worked in London - UK, from where I traveled a lot around the globe. I guess London made me like to travel and discover new places, expanding my knowledge about the world. This mindset has taken me to Brasil where I currently live.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karcagigergo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karcagigergo&theme=outrun&layout=compact)
 
 ### 📫 Contact
 
