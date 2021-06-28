@@ -4,7 +4,7 @@ I'm Gergő! I'm a Full-stack developer just graduated from one of the best inter
 
 ### 🧪 Currently working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karcagigergo&repo=github-readme-stats)](https://github.com/karcagigergo/idillchaos-portfolio)
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karcagigergo&repo=github-readme-stats)](https://github.com/karcagigergo/idillchaos-portfolio) -->
