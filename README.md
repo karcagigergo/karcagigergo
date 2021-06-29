@@ -16,6 +16,9 @@ I'm Gergő! I'm a Full-stack developer just graduated from one of the best inter
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=karcagigergo&theme=outrun&count_private=true&show_icons=true&hide=contribs)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karcagigergo&theme=outrun&layout=compact)
+
 <!--
 **karcagigergo/karcagigergo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,7 +38,6 @@ Here are some ideas to get you started:
 I consider myself as a global citizen but I was born and educated in Hungary. I lived and worked in London - UK, from where I traveled a lot around the globe. I guess London made me like to travel and discover new places, expanding my knowledge about the world. This mindset has taken me to Brasil where I currently live.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karcagigergo&theme=outrun&layout=compact)
 
 ### 📫 Contact
 
