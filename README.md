@@ -1,6 +1,6 @@
-<h1 style="text-align: center">Hi there 👋, I'm Gergő Karcagi</h1>
+<h1 align="center">Hi there 👋, I'm Gergő Karcagi</h1>
 
-<h2 style="text-align: center">Jr Full-Stack Developer | Ruby on Rails</h2>
+<h2 align="center">Jr Full-Stack Developer | Ruby on Rails</h2>
 
 ### ⚡ About me:
 
@@ -9,9 +9,9 @@ I consider myself as a global citizen but I was born and educated in Hungary. I 
 
 - 💻 I'm currently practicing: Ruby on Rails and JavaScript (forever and ever... 💡)
 
-- 🌱 I’m currently learning: ReactJS
+- 🌱 I’m currently learning: **ReactJS**
 
-- 💬 Ask me about ANYTHING (literally anything.)
+- 💬 Ask me about ANYTHING (mmm maybe not quantum mechanics)
 
 - 🗣️ I speak English <sub>EN</sub>, basic Portuguese <sub>BR</sub> and Hungarian <sub>HU</sub>.
 
