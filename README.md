@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">Hi there 👋, I'm Gergő Karcagi</h1>
+<h1 style="text-align: center">Hi there 👋, I'm Gergő Karcagi</h1>
 
-<h2 style="text-align: center;">Jr Full-Stack Developer | Ruby on Rails</h2>
+<h2 style="text-align: center">Jr Full-Stack Developer | Ruby on Rails</h2>
 
 ### ⚡ About me:
 
