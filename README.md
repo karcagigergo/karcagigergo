@@ -1,21 +1,32 @@
-### Hi there 👋
+<h1 style="text-align: center;">Hi there 👋, I'm Gergő Karcagi</h1>
 
-I'm Gergő! I'm a Full-stack developer just graduated from one of the best international programming school: LeWagon, in batch #540. I learned HTML, CSS, Bootstrap, JavaScript ES6, SQL, git, GitHub, Figma, Trello, Heroku and Ruby on Rails there and now the sky is the limit.
+---
 
-### 🧪 Currently working on:
+<h2 style="text-align: center;">Jr Full-Stack Developer | Ruby on Rails</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karcagigergo&theme=default_repocard&repo=idillchaos-portfolio)](https://github.com/karcagigergo/idillchaos-portfolio)
+# ⚡ About me:
 
+I'm Gergő! I'm a Full-stack developer just graduated from one of the best international programming school: LeWagon, in batch #540. I learned Ruby on Rails, JavaScript ES6, HTML, CSS, Bootstrap, SQL, git, GitHub and Heroku there and now the sky is the limit.
+I consider myself as a global citizen but I was born and educated in Hungary. I lived and worked in London - UK, from where I traveled a lot around the globe. I guess London made me love to travel and discover new places, expanding my knowledge about the world. This mindset has taken me to Brazil where I currently live.
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karcagigergo&repo=github-readme-stats)](https://github.com/karcagigergo/idillchaos-portfolio) -->
+- I'm currently practicing: Ruby on Rails and JavaScript (forever and ever... 💡)
+- 🌱 I’m currently learning: ReactJS
+- 💬 Ask me about ANYTHING (literally anything.)
+- 🗣️ I speak English ~EN~, basic Portuguese ~BR~ and Hungarian ~HU~.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love to surf (I'm just too bad at it STILL... 🏄‍♂️)
 
+---
 
+# 🧪 Currently working on:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karcagigergo&theme=default_repocard&repo=guess-my-number)](https://github.com/karcagigergo/guess-my-number)
 
-### 👀 My stats:
+---
+
+# 👀 My stats:
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=karcagigergo&theme=default&count_private=true&show_icons=true&hide=contribs)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karcagigergo&theme=default&layout=compact)
 
@@ -33,13 +44,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ⚡ About karcagigergo
 
-I consider myself as a global citizen but I was born and educated in Hungary. I lived and worked in London - UK, from where I traveled a lot around the globe. I guess London made me like to travel and discover new places, expanding my knowledge about the world. This mindset has taken me to Brasil where I currently live.
-
-
-
-### 📫 Contact
+# 📫 Contact:
 
 <a href="mailto:karcagigergo@gmail.com">![karcagigergo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/karcagigergo/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
