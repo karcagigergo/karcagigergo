@@ -9,7 +9,7 @@ I consider myself as a global citizen but I was born and educated in Hungary. I 
 
 - 💻 I'm currently practicing: Ruby on Rails and JavaScript (forever and ever... 💡)
 
-- 🌱 I’m currently learning: **ReactJS**
+- 🌱 I’m currently learning: **Node and ReactJS**
 
 - 💬 Ask me about **ANYTHING** _(mmm maybe not quantum mechanics)_
 
