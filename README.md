@@ -27,7 +27,7 @@ I consider myself as a global citizen but I was born and educated in Hungary. I 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karcagigergo&theme=default&layout=compact)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/karcagigergo/karcagigergo/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **karcagigergo/karcagigergo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
