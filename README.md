@@ -27,6 +27,8 @@ I consider myself as a global citizen but I was born and educated in Hungary. I 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karcagigergo&theme=default&layout=compact)
 
+### Check my contribution graph gets eaten by a snake 🐍:
+
 ![snake gif](https://github.com/karcagigergo/karcagigergo/blob/output/github-contribution-grid-snake.gif)
 
 <!--
