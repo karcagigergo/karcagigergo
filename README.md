@@ -15,8 +15,6 @@ I consider myself as a global citizen but I was born and educated in Hungary. I 
 
 - 🗣️ I speak English <sub>EN</sub>, basic Portuguese <sub>BR</sub> and Hungarian <sub>HU</sub>.
 
-- 😄 Pronouns: he/him
-
 - ⚡ Fun fact: I love to surf 🏄‍♂️ _(I'm just too bad at it STILL...)_
 
 ### 🧪 Currently working on:
@@ -28,6 +26,8 @@ I consider myself as a global citizen but I was born and educated in Hungary. I 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=karcagigergo&theme=default&count_private=true&show_icons=true&hide=contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karcagigergo&theme=default&layout=compact)
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **karcagigergo/karcagigergo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
