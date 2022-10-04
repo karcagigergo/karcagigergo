@@ -17,10 +17,6 @@ I consider myself as a global citizen but I was born and educated in Hungary. I 
 
 - ⚡ Fun fact: I love to surf 🏄‍♂️ _(I'm just too bad at it STILL...)_
 
-### 🧪 Currently working on:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karcagigergo&theme=default_repocard&repo=guess-my-number)](https://github.com/karcagigergo/guess-my-number)
-
 ### 👀 My stats:
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=karcagigergo&theme=default&count_private=true&show_icons=true&hide=contribs)
