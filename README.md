@@ -4,12 +4,9 @@
 
 ### ⚡ About me:
 
-I'm Gergő! I'm a Full-stack developer just graduated from one of the best international programming school: **LeWagon, in batch #540**. I learned **_Ruby on Rails, JavaScript ES6, HTML, CSS, Bootstrap, SQL, git, GitHub and Heroku_** there and now the sky is the limit.
-I consider myself as a global citizen but I was born and educated in Hungary. I lived and worked in London - UK, from where I traveled a lot around the globe. I guess London made me love to travel and discover new places, expanding my knowledge about the world. This mindset has taken me to Brazil where I currently live.
+Hi all, my name is Gergő and I'm a Full-stack developer. Graduated from one of the best international programming school: **LeWagon, in batch #540**, I learned **_Ruby on Rails, JavaScript ES6, HTML, CSS, Bootstrap, SQL, git, GitHub and Heroku_**. I consider myself as a global citizen but I was born and educated in Hungary. I lived and worked in London - UK, from where I traveled a lot around the globe. I guess London made me love to travel and discover new places, expanding my knowledge about the world. This mindset has taken me to Brazil where I currently live.
 
-- 💻 I'm currently practicing: Ruby on Rails and JavaScript (forever and ever... 💡)
-
-- 🌱 I’m currently learning: **React**
+- 💻 I'm currently practicing: Ruby on Rails and JavaScript and React (forever and ever... 💡)
 
 - 💬 Ask me about **ANYTHING** _(mmm maybe not quantum mechanics)_
 
